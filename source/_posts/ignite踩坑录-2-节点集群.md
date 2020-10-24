@@ -1,5 +1,5 @@
 ---
-title: ignite踩坑录(2) 节点集群
+title: ignite实践踩坑录(2) 节点集群
 date: 2019-07-13 11:26:25
 categories: 
 - 后端

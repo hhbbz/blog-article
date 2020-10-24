@@ -1,5 +1,5 @@
 ---
-title: ignite踩坑录(4) 数据一致性
+title: ignite实践踩坑录(4) 数据一致性
 date: 2020-03-21 14:53:08
 categories: 
 - 后端

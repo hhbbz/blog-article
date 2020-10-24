@@ -1,5 +1,5 @@
 ---
-title: Ignite踩坑录(1) 简介与持久化
+title: ignite实践踩坑录(1) 简介与持久化
 date: 2019-05-19 14:07:35
 categories: 
 - 后端

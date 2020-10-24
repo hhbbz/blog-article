@@ -1,5 +1,5 @@
 ---
-title: ignite踩坑录(3) 数据平衡分布
+title: ignite实践踩坑录(3) 数据平衡分布
 date: 2019-09-23 14:49:44
 categories: 
 - 后端
